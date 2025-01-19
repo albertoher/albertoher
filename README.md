@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola, soy Alberto👋
 
 Soy un desarrollador junior apasionado por el desarrollo de software y la programación. Me encanta aprender nuevas tecnologías y mejorar mis habilidades en proyectos reales. Actualmente, estoy enfocado en [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) y [React](https://reactjs.org/).
 
