@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+Soy un desarrollador junior apasionado por el desarrollo de software y la programación. Me encanta aprender nuevas tecnologías y mejorar mis habilidades en proyectos reales. Actualmente, estoy enfocado en [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) y [React](https://reactjs.org/).
+
+🚀 Busco colaborar en proyectos open-source o aprender nuevas tecnologías que me ayuden a crecer como ingeniero de software.
+
+📫 Puedes contactarme en alberto10pumas@gmail.com
+
 <!--
 **albertoher/albertoher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
