@@ -19,7 +19,7 @@ Soy un desarrollador junior apasionado por el desarrollo web y la programación.
 
 ### 📫 Cómo contactarme:
 - Correo electrónico: [alberto10pumas@gmail.com](mailto:alberto10puma@gmail.com)
-- LinkedIn: [linkedin.com/in/alberto-hernandez-cardenas-274334158](www.linkedin.com/in/alberto-hernandez-cardenas-274334158)
+- LinkedIn: [linkedin.com/in/alberto-hernandez-cardenas-274334158](https://www.linkedin.com/in/alberto-hernandez-cardenas-274334158)
 
 <!--
 **albertoher/albertoher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
